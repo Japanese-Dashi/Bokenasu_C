@@ -1,2 +1,2 @@
 # Bokenasu_C
-C Source no prace
+## アホみたいなC言語のソースをのせるところ
